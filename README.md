@@ -1,7 +1,7 @@
 #### Hi there 👋, I'm CHOKRI HAMZA 
-
+💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
 ## I'm an Industrial Engineer & Full stack Js developer,passionate about developing!!
-
+💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
