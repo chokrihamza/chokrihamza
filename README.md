@@ -15,8 +15,8 @@ library(png)
 
 
 
-<img src="https://studio.youtube.com/channel/UCQg7IuWZivgPVLKhxegMfRw/editing/images" alt="Kitten"
-	title="A cute kitten" width="100%"  />
+<img src="https://yt3.ggpht.com/ytc/AAUvwniMMKxlv-wgB5OkP4XVpJn6KsCQe9jnZXKtOfN98g=s176-c-k-c0x00ffffff-no-rj" 
+	 width="100%"  />
 
 ### Connect with me
 
