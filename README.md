@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-[](https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo)
+[cc](https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo)
 
 
 
