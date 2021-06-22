@@ -15,7 +15,8 @@ library(png)
 
 <img src="https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo" style="width:800px;height:300px;">
 
-
+<img src="https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 ### Connect with me
 
