@@ -8,7 +8,7 @@
 
 <img src="https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo"
      alt="image"
-     style="float: left; margin-right: 10px;" />
+     style="width:100%;" />
 
 
 
