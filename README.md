@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-[cc](https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo)
+#[My LinkedIn page](https://www.linkedin.com/in/chokri-hamza-46657814a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2UD3BM5MRK%2BEBD6w4qVoLg%3D%3D)
 
 
 
