@@ -15,7 +15,7 @@ library(png)
 
 
 
-<img src="https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo" alt="Kitten"
+<img src="https://studio.youtube.com/channel/UCQg7IuWZivgPVLKhxegMfRw/editing/images" alt="Kitten"
 	title="A cute kitten" width="100%"  />
 
 ### Connect with me
