@@ -1,3 +1,8 @@
+
+library(knitr)   
+library(ggplot2) 
+library(png)
+
 # Hi there 👋, I'm CHOKRI HAMZA 
 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
 ## I'm an Industrial Engineer & Full stack Js developer,passionate about developing!!
