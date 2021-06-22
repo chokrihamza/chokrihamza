@@ -15,8 +15,7 @@ library(png)
 
 <img src="https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo" style="width:800px;height:300px;">
 
-{r  out.width = "50%"}
-include_graphics(https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo)
+
 
 ### Connect with me
 
