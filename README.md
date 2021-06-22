@@ -2,13 +2,13 @@
 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
 ## I'm an Industrial Engineer & Full stack Js developer,passionate about developing!!
 💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻💻
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+-1 I’m currently learning everything 🤣
+-2 I’m looking to collaborate with other content creators
+-3 2021 Goals: Contribute more to Open Source projects
 
 #[My LinkedIn page](https://www.linkedin.com/in/chokri-hamza-46657814a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B2UD3BM5MRK%2BEBD6w4qVoLg%3D%3D)
 
-
+<img src="https://lh3.googleusercontent.com/ogw/ADea4I7Q478IDzKC66zhTENRogaHwi_K8ZfNHV6iWQUp5A=s32-c-mo" style="width:800px;height:300px;">
 
 ### Connect with me
 
