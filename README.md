@@ -30,7 +30,7 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/-Sublime-4B4B4B?style=flat-square&logo=sublime-text&logoColor=FF9800)</br>
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)</br>
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,7 +48,7 @@
 
 <p align="center">
 
-<a href="[[https://www.linkedin.com/in/%F0%9F%94%B5-hamza%F0%9F%8E%AF-%F0%9F%94%B4-chokri-%F0%9F%8E%AF-46657814a/](https://www.linkedin.com/in/%F0%9F%94%B5-hamza%F0%9F%8E%AF-%F0%9F%94%B4-chokri-%F0%9F%8E%AF-46657814a/)](https://www.linkedin.com/in/%F0%9F%94%B5-hamza%F0%9F%8E%AF-%F0%9F%94%B4-chokri-%F0%9F%8E%AF-46657814a/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="[[https://www.linkedin.com/in/%F0%9F%94%B5-hamza%F0%9F%8E%AF-%F0%9F%94%B4-chokri-%F0%9F%8E%AF-46657814a/](https://www.linkedin.com/in/%F0%9F%94%B5-hamza%F0%9F%8E%AF-%F0%9F%94%B4-chokri-%F0%9F%8E%AF-46657814a/)](https://www.linkedin.com/in/%F0%9F%94%B5-hamza%F0%9F%8E%AF-%F0%9F%94%B4-chokri-%F0%9F%8E%AF-46657814a/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Hamza Chokri%20Singh-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:chokrihamza1994@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chokrihamza1994@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
