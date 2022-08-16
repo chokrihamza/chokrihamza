@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Master Degree In Intelligent Decision Making Strategies/ Industrial Engineer/ Full Stack JS Developer.
-- 💼 &nbsp; Working as a Industrial Engineer.
+- 💼 &nbsp; Working as an Industrial Engineer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Data Mining,and Artificial Intelligence,etc.
 
 
