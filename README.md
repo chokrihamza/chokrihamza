@@ -4,7 +4,7 @@
 
 A highly effective and goal-oriented software developer and industrial engineer. Strong organizational and leadership competencies with a proven record of accomplishment in delivering excellent outcomes. My goal is to join companies to work on artificial intelligence tasks.
 
-<img align="center" width="500" height="200" src="https://i.pinimg.com/originals/01/d7/17/01d7176e77aebf3b461562899efcf47f.gif">
+<img align="center" width="1000" height="450" src="https://i.pinimg.com/originals/01/d7/17/01d7176e77aebf3b461562899efcf47f.gif">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
