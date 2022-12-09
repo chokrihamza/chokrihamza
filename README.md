@@ -1,5 +1,5 @@
 
-<img align="center" width="900" height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Flighting-crash&psig=AOvVaw26I_jl8FAHWo6NsEruxCpC&ust=1670691945912000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjZlNKC7fsCFQAAAAAdAAAAABBz">
+<img align="center" width="900" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Flighting-crash&psig=AOvVaw26I_jl8FAHWo6NsEruxCpC&ust=1670691945912000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjZlNKC7fsCFQAAAAAdAAAAABBz">
 
 <h2> Hey there! I'm Hamza Chokri.</h2>
 
