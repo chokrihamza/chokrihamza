@@ -1,6 +1,6 @@
 
-<img align="center" width="900" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Flighting-crash&psig=AOvVaw26I_jl8FAHWo6NsEruxCpC&ust=1670691945912000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjZlNKC7fsCFQAAAAAdAAAAABBz">
 
+<img align="center" width="900" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Flighting-crash&psig=AOvVaw26I_jl8FAHWo6NsEruxCpC&ust=1670691945912000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjZlNKC7fsCFQAAAAAdAAAAABBz">
 <h2> Hey there! I'm Hamza Chokri.</h2>
 
 A highly effective and goal-oriented software developer and industrial engineer. Strong organizational and leadership competencies with a proven record of accomplishment in delivering excellent outcomes. My goal is to join companies to work on artificial intelligence tasks.
