@@ -4,7 +4,7 @@
 
 A highly effective and goal-oriented software developer and industrial engineer. Strong organizational and leadership competencies with a proven record of accomplishment in delivering excellent outcomes. My goal is to join companies to work on artificial intelligence tasks.
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)">
+<img align="right" width="100" height="100" src="[http://www.fillmurray.com/100/100](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)](https://i.pinimg.com/originals/01/d7/17/01d7176e77aebf3b461562899efcf47f.gif)">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
