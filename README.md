@@ -1,6 +1,4 @@
 
-
-<img align="center" width="900" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcutewallpaper.org%2F25%2Fanimated-rgb-wallpaper%2Fview-page-25.html&psig=AOvVaw3cQFIJPX6-d_oowrXd9RYv&ust=1670692184509000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi37cOD7fsCFQAAAAAdAAAAABAJ">
 <h2> Hey there! I'm Hamza Chokri.</h2>
 
 A highly effective and goal-oriented software developer and industrial engineer. Strong organizational and leadership competencies with a proven record of accomplishment in delivering excellent outcomes. My goal is to join companies to work on artificial intelligence tasks.
