@@ -1,5 +1,9 @@
-[url=https://postimg.cc/LnLDDX0c][img]https://i.postimg.cc/LnLDDX0c/Screenshot-2022-12-11-193100.png[/img][/url]
-[![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/LnLDDX0c)
+
+<a href="https://postimg.cc/LnLDDX0c" target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+
+
+
 <h2> Hey there! I'm Hamza Chokri.</h2>
 
 A highly effective and goal-oriented software developer and industrial engineer. Strong organizational and leadership competencies with a proven record of accomplishment in delivering excellent outcomes. My goal is to join companies to work on artificial intelligence tasks.
