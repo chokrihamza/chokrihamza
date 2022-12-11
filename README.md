@@ -4,7 +4,7 @@
 
 
 
-
+<P align="center">
 A highly effective and goal-oriented software developer and industrial engineer. Strong organizational and leadership competencies with a proven record of accomplishment in delivering excellent outcomes. My goal is to join companies to work on artificial intelligence tasks.
 <p align='center'>
 </br>
