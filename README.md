@@ -1,6 +1,4 @@
-
-<a href="https://postimg.cc/LnLDDX0c" target='_blank'><img height='36' style='border:0px;height:36px;' src='https://postimg.cc/LnLDDX0c' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
+[![Screenshot-2022-12-11-193100.png](https://i.postimg.cc/02H48KGy/Screenshot-2022-12-11-193100.png)](https://postimg.cc/LnLDDX0c)
 
 
 
