@@ -1,12 +1,13 @@
+<h2> Hey there! I'm Hamza Chokri.</h2>
 [![Screenshot-2022-12-11-193100.png](https://i.postimg.cc/02H48KGy/Screenshot-2022-12-11-193100.png)](https://postimg.cc/LnLDDX0c)
 
 
 
-<h2> Hey there! I'm Hamza Chokri.</h2>
+
 
 A highly effective and goal-oriented software developer and industrial engineer. Strong organizational and leadership competencies with a proven record of accomplishment in delivering excellent outcomes. My goal is to join companies to work on artificial intelligence tasks.
 <p align='center'>
-<img align="center" width="900" height="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></br>
+</br>
 <a href='https://www.buymeacoffee.com/chokrihamza' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
