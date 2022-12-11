@@ -1,3 +1,4 @@
+[![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ)
 
 <h2> Hey there! I'm Hamza Chokri.</h2>
 
