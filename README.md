@@ -48,11 +48,11 @@ A highly effective and goal-oriented software developer and industrial engineer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br/>
-
+<p align="center">
 <a href="https://github.com/chokrihamza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chokrihamza&theme=buefy&show_icons=true" />
 </a>
-
+<p/>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
