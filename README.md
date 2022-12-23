@@ -55,7 +55,7 @@ A highly effective and goal-oriented software developer and industrial engineer.
 <p/>
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me 🎸 </h3>
 
 <p align="center">
 
