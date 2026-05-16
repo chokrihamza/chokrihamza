@@ -26,7 +26,7 @@
   "name": "Hamza Chokri",
   "role": ["Industrial Engineer", "Full-Stack JS Developer", "AI Explorer"],
   "education": "MSc in Intelligent Decision Making Strategies",
-  "currentFocus": ["Cloud Architecture", "Data Mining", "Artificial Intelligence"],
+  "currentFocus": ["Combinatorial optimization", "Stats/Prop", "Artificial Intelligence"],
   "lifeGoal": "Join a company working on meaningful AI challenges",
   "funFact": "I engineer systems in the real world AND the digital one 🏭💻"
 }
