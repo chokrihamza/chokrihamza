@@ -93,7 +93,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%F0%9F%94%B5-hamza%F0%9F%8E%AF-%F0%9F%94%B4-chokri-%F0%9F%8E%AF-46657814a/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chokrihamza1994@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chokrihamza.ia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chokrihamza)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://www.buymeacoffee.com/chokrihamza)
 
@@ -103,14 +103,12 @@
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=chokrihamza&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
 
-**"Code is poetry. Engineering is art. AI is the canvas."** ✨
 
 ⭐️ From [Hamza Chokri](https://github.com/chokrihamza) — *with passion & caffeine* ☕
 
